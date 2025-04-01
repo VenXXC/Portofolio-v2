@@ -35,7 +35,7 @@ export default {
           id: 4,
           name: 'Coming Soon',
           imageUrl: 'comingsoon',
-          status: 'a web application used by village-owned enterprises at the sub-district level to make it easier for them in terms of accounting that is equipped with a microfinance balance.',
+          status: 'Coming Soon.',
           tech: 'Unknown',
           github: 'null',
           demo: 'null'
