@@ -7,7 +7,7 @@ export default {
         {
           id: 1,
           name: 'Personal Website',
-          imageUrl: 'https://files.catbox.moe/x3gnuh.jpg',
+          imageUrl: 'portfolio',
           status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
           tech: 'Next Js, Tailwind',
           github: 'https://github.com/painzy740/Profile/',
@@ -16,7 +16,7 @@ export default {
         {
           id: 2,
           name: 'Website Chat Ai + Art ai',
-          imageUrl: 'https://files.catbox.moe/uqwjm1.jpg',
+          imageUrl: 'stariesai',
           status: 'Website Artificial Intelligence Chat And Art',
           tech: 'React Js, Tailwind',
           github: 'https://github.com/painzy740/strai',
@@ -25,7 +25,7 @@ export default {
         {
           id: 3,
           name: 'Coming Soon',
-          imageUrl: 'https://files.catbox.moe/cobelq.png',
+          imageUrl: 'comingsoon',
           status: 'Coming Soon.',
           tech: 'Unknown',
           github: 'null',
@@ -34,7 +34,7 @@ export default {
         {
           id: 4,
           name: 'Coming Soon',
-          imageUrl: 'https://files.catbox.moe/cobelq.png',
+          imageUrl: 'comingsoon',
           status: 'a web application used by village-owned enterprises at the sub-district level to make it easier for them in terms of accounting that is equipped with a microfinance balance.',
           tech: 'Unknown',
           github: 'null',
@@ -43,7 +43,7 @@ export default {
         {
           id: 5,
           name: 'Coming Soon',
-          imageUrl: 'https://files.catbox.moe/cobelq.png',
+          imageUrl: 'comingsoon',
           status: 'Coming Soon.',
           tech: 'Unknown',
           github: 'null',
