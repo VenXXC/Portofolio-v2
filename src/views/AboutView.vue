@@ -100,22 +100,14 @@ export default {
         class="text-sm md:text-lg text-justify flex flex-col gap-4 md:flex-row md:gap-8 md:justify-left md:items-center">
         <div class="flex justify-center">
           <img class="w-9/12 rounded-full mb-3 fadein-up"
-            src="https://files.catbox.moe/t6kiip.jpg" alt="Foto">
+            src="https://files.catbox.moe/3qtc2l.png" alt="Foto">
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Painzy. I'm a web developer from Jakarta, West Java. I
-            have 1 year of experience in back-end web development.
-            I really enjoy what I do right now, in my opinion, creating programs is not just a job, but also an art that
-            has
-            aesthetic value
+            &nbsp; &nbsp; &nbsp; Hello Everyone! My name is Vennix. I'm a robot script generator from Jogja. I have 7 monts experience robot script generator. I'm really enjoy what i do right now, in my opinion creating programs is not just a job, but also an art that has aesthetic value.
           </p>
           <p class="mb-3 fadein-left fadeins-2">
-            &nbsp; &nbsp; &nbsp; My job is to build your website to be functional and user-friendly yet still attractive.
-            In addition, I provide a personal touch to your product and ensure that the website catches attention and is
-            easy to use.
-            My goal is to convey your message and identity in the most creative way. If you are interested in hiring me,
-            please contact the listed contact.
+            &nbsp; &nbsp; &nbsp; My job is make a script and recode the script if there is any mistake i will fix it. This script can be used by anyone. This script can be used by anyone.I will help anyone as much as I can. if you interested in hiring me, please contact me.
           </p>
         </div>
 

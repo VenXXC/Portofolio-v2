@@ -6,21 +6,21 @@ export default {
       items: [
         {
           id: 1,
-          name: 'Personal Website',
-          imageUrl: 'portfolio',
-          status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
-          tech: 'Next Js, Tailwind',
-          github: 'https://github.com/painzy740/Profile/',
-          demo: 'https://painzy.web.id/'
-        },
-        {
-          id: 2,
           name: 'Website Chat Ai + Art ai',
           imageUrl: 'stariesai',
           status: 'Website Artificial Intelligence Chat And Art',
           tech: 'React Js, Tailwind',
           github: 'https://github.com/painzy740/strai',
           demo: 'https://staries-ai.painzysite.biz.id/'
+        },
+        {
+          id: 2,
+          name: 'Coming Soon',
+          imageUrl: 'comingsoon',
+          status: 'Coming Soon.',
+          tech: 'Unknown',
+          github: 'null',
+          demo: 'null'
         },
         {
           id: 3,
