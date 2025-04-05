@@ -104,10 +104,10 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hello Everyone! My name is Vennix. I'm a robot script generator from Jogja. I have 7 monts experience robot script generator. I'm really enjoy what i do right now, in my opinion creating programs is not just a job, but also an art that has aesthetic value.
+            &nbsp; &nbsp; &nbsp; Hello Everyone! My name is Vennix. I a robot script generator from Jogja. I have 7 months experience robot script generator. I really enjoy what i do right now, in my opinion creating programs is not just a job, but also an art that has aesthetic value.
           </p>
           <p class="mb-3 fadein-left fadeins-2">
-            &nbsp; &nbsp; &nbsp; My job is make a script and recode the script if there is any mistake i will fix it. This script can be used by anyone. This script can be used by anyone.I will help anyone as much as I can. if you interested in hiring me, please contact me.
+            &nbsp; &nbsp; &nbsp; My job is make a script and recode the script if there is any mistake i will fix it. This script can be used by anyone. This script can be used by anyone.I will help anyone as much as I can. if you're interested in hiring me, please contact me.
           </p>
         </div>
 
